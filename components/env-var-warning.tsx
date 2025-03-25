@@ -23,7 +23,7 @@ export function EnvVarWarning() {
           size="sm"
           variant={"default"}
           disabled
-          className="opacity-75 cursor-none pointer-events-none"
+          className="opacity-75 cursor-none bg-blue-900 text-white pointer-events-none"
         >
           <Link href="/sign-up">Sign up</Link>
         </Button>
